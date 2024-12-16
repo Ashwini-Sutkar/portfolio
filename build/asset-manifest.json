@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39909695.css",
+    "main.js": "/static/js/main.88040af9.js",
+    "static/media/fabindia.PNG": "/static/media/fabindia.db9a9a9fe44f3d43573c.PNG",
+    "static/media/imdb-clone.png": "/static/media/imdb-clone.5e6bb48da3784640d641.png",
+    "static/media/photographic-websites.png": "/static/media/photographic-websites.aa5366cb2e567db04036.png",
+    "static/media/paytmmall.png": "/static/media/paytmmall.ef558079d3095a68415b.png",
+    "static/media/food-website.netlify.app.jpeg": "/static/media/food-website.netlify.app.a731156d91ba699554ab.jpeg",
+    "static/media/RahulChoudhary.png": "/static/media/RahulChoudhary.23044c58b69295335eb8.png",
+    "static/media/Ashwini_Photo.jpg": "/static/media/Ashwini_Photo.jpg",
+    
+    "index.html": "/index.html",
+    "main.39909695.css.map": "/static/css/main.39909695.css.map",
+    "main.88040af9.js.map": "/static/js/main.88040af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39909695.css",
+    "static/js/main.88040af9.js"
+  ]
+}
