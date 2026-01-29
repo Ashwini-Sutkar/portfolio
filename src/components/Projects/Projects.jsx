@@ -4,7 +4,7 @@ import "./Projects.css";
 import foodWeb from "../../Assets/images/shopping.jpg"
 import photoShotWeb from "../../Assets/images/Landingpage.jpg"
 import imdbClone from "../../Assets/images/urbn.png"
-import amazonClone from "../../Assets/images/amazone.png"
+import amazonClone from "../../Assets/images/Skincare.jpg"
 import {
   SiHtml5,
   SiJavascript,
@@ -47,17 +47,19 @@ const Projects = () => {
               </div>
             </div>
             <div className="project_information" data-aos="fade-right">
-              <h2>Amazon Clone</h2>
+              <h2>Skincare</h2>
               <p>
-              Amazon is an e-commerce platform that sells many product lines, including media (books, movies, music, and software), baby products, consumer electronics, beauty products, groceries, health and personal care products, industrial & scientific supplies, kitchen items, jewelry, watches, sporting goods, toys and games.</p>
+              Designed a modern skincare e-commerce homepage focused on clarity, trust, and visual storytelling.
+Created a clean layout highlighting product benefits, featured collections, and brand transparency.
+Balanced editorial imagery with structured product sections to improve browsing and engagement.
+Focused on minimal UI, soft color palette, and conversion-friendly CTAs.</p>
               <div>
-                <SiHtml5 />
-                <SiCss3 />
-                <FaReact />
+               <SiBehance />
+               <SiFigma />
               </div>
               <div>
                 <a
-                  href="https://main--amazon-clone-5d4f2c.netlify.app/"
+                  href="https://www.behance.net/gallery/243120359/Skincare"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -66,7 +68,7 @@ const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/Ashwini-Sutkar/amazone-clone/tree/main"
+                  href="https://www.behance.net/gallery/243120359/Skincare"
                   target="_blank"
                   rel="noreferrer"
                 >

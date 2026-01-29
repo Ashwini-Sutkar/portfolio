@@ -1,6 +1,6 @@
 import React from "react";
 import "./Introduction.css";
-import RahulPng from "../../Assets/images/Ashwini_Photo.jpg";
+import RahulPng from "../../Assets/images/Ashwini.jpeg";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import { ThemeContext } from "../../Context/theme";
 

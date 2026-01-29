@@ -12,6 +12,7 @@ import {
   SiPostman,
   SiFigma,
   SiBootstrap,
+  Si1Password,
   
 
 } from "react-icons/si";
@@ -48,17 +49,17 @@ export const Techstacks = () => {
             <h5>React</h5>
           </div>
           <div>
-            <FaNodeJs />
-            <h5>Nodejs</h5>
+            <Si1Password />
+            <h5>Open ai</h5>
           </div>
           <div>
-            <SiTailwindcss />
-            <h5>Tailwindcss</h5>
+            <Si1Password />
+            <h5>Lovable ai</h5>
           </div>
 
           <div>
-            <SiExpress />
-            <h5>Express</h5>
+            <Si1Password />
+            <h5>Perplexity ai</h5>
           </div>
 
           <div>
@@ -75,8 +76,8 @@ export const Techstacks = () => {
             <h5>Github</h5>
           </div>
           <div>
-            <SiPostman />
-            <h5>Postman</h5>
+            <Si1Password />
+            <h5>Claude ai</h5>
           </div>
         </div>
       </div>

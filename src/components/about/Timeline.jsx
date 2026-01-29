@@ -29,10 +29,44 @@ export const Timeline = () => {
           My <span className="different">Timeline 💫</span>
         </h2>
         <VerticalTimeline lineColor={linecolor}>
+          {/* //Stark Digital */}
+        <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date={"June 2025 - October 2025"}
+            contentStyle={{
+              boxShadow: `var(--shadow)`,
+              backgroundColor: `var(--clr-bg)`,
+              textAlign: "center",
+              color: `var(--clr-fg-alt)`,
+            }}
+            contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
+            iconStyle={{
+              backgroundColor: `var(--clr-bg)`,
+              color: `var(--clr-primary)`,
+            }}
+            icon={<SchoolIcon />}
+          >
+            <h3
+              className="vertical-timeline-element-title"
+              data-aos="fade-right"
+            >
+              UI/UX Designer            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              data-aos="fade-right"
+            > Stark Digital media pvt ltd</h4>
+            <p data-aos="fade-right">
+           Designed web applications in Figma for government platforms. Collaborated closely with developers to ensure pixel-perfect implementation and refined user flows and layouts based on user and internal feedback.      </p>
+          </VerticalTimelineElement>
+
+
+
+
+
         {/* //yakai solutions */}
         <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"December 2023 - Present"}
+            date={"December 2023 - April 2025"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               backgroundColor: `var(--clr-bg)`,
